@@ -1,2 +1,2 @@
 # Simple-AJAX
-Some ajax tests with AJAX and GitHub users
+Some AJAX tests with GitHub users
